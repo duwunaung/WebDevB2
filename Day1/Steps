@@ -6,3 +6,28 @@ How to upload code on GitHub
     - Now Can access all code from this link
         https://github.com/duwunaung/WebDevB2.git
         
+What is HTML
+    Web Page Creation
+
+
+Tags: 
+    HTML
+        Head
+            Title
+        Body
+            Paragraph
+                strong
+                em
+                small
+            heading
+            br
+            hr
+            list
+                ul  => Bullet 
+                ol  => 1,2,3
+                    li
+
+Using Live Server
+
+Programming Language
+PHP, Python, Java, C#, Golang, Dart
