@@ -1,0 +1,16 @@
+tags 
+    id
+    class
+
+header
+nav
+section
+article
+footer
+
+table
+    tr
+    td
+
+a
+    href
