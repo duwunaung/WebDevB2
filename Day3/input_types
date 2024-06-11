@@ -1,0 +1,25 @@
+<input type="color">
+<input type="datetime-local">
+<input type="file">
+<input type="hidden">
+<input type="month">
+<input type="number">
+<input type="range">
+<input type="reset">
+<input type="search">
+<input type="submit">
+<input type="tel">
+<input type="time">
+<input type="url">
+<input type="week">
+
+<input type="button"> (Done)
+<input type="date"> (Done)
+<input type="password"> (Done)
+<input type="email"> (Done)
+<input type="image"> (Done)
+<input type="radio"> (Done)
+<input type="checkbox"> (Done)
+<input type="text"> (Done)
+
+
