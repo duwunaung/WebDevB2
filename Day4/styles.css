@@ -1,0 +1,62 @@
+body {
+    background-color: gray;
+    /* background-image: url("image.jpg"); */
+}
+
+h1 {
+    font-size: small;
+    background-color: rgb(3, 62, 62);
+    text-align: center;
+    color: white;
+}
+
+#first_one {
+    color: #FF4500;
+    border-style: solid;
+}
+
+#second_one {
+    color: blue;
+    border-style: solid;
+
+    /* border-top-style: solid;
+    border-right-style: groove;
+    border-bottom-style: dashed;
+    border-left-style: double; */
+
+    border-color: orange;
+    border-radius: 10px;
+    text-align: center;
+
+    /* margin: 10px;
+    padding: 10px;
+
+    width: 250px;
+    height: 300px; */
+
+}
+
+.message {
+    font-size: large;
+}
+
+table, tr, td{
+    border: 1px solid;
+}
+
+
+p .name {
+    color: green;
+}
+
+label .name {
+    color: red;
+}
+
+img {
+    max-width: 100px;
+}
+
+.images {
+    text-align: center;
+}
