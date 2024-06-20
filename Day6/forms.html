@@ -1,0 +1,60 @@
+<html>
+
+<head>
+    <title>
+        Form
+    </title>
+    <style>
+        h1 {
+            color: Red;
+        }
+
+        input,
+        select {
+            width: 100%;
+            margin: 5px 0px;
+            padding: 10px;
+        }
+
+        .send_btn,
+        .clear_btn {
+            border-radius: 10px;
+        }
+
+        .send_btn {
+            background-color: green;
+            color: white;
+        }
+
+        .send_btn:hover {
+            background-color: greenyellow;
+            color: black;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Message Form</h1>
+    <form>
+        <label for="name">Name: </label>
+        <input type="text" id="name" placeholder="Enter your name.">
+        <br>
+        <label for="email">Email: </label>
+        <input type="email" id="email" placeholder="Enter your email.">
+        <br>
+        <textarea rows="10" cols="50" id="message">
+            </textarea>
+        <br>
+        <label for="language">Primary Language: </label>
+        <select name="language" id="language">
+            <option value="python">Python</option>
+            <option value="node">Node JS</option>
+            <option value="php">PHP</option>
+        </select>
+        <br>
+        <input class="send_btn" type="button" value="Send">
+        <input class="clear_btn" type="reset" value="Clear">
+    </form>
+</body>
+
+</html>
