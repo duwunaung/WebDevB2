@@ -1,0 +1,22 @@
+#mobile, #tablet {
+    display: none;
+}
+
+@media screen and (max-width: 1000px) {
+    #mobile, #computer {
+        display: none;
+    }
+
+    #tablet {
+        display: block;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    #computer, #tablet {
+        display: none;
+    }
+    #mobile {
+        display: block;
+    }
+}
